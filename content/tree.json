@@ -119,5 +119,16 @@
                 "children": null
             }
         ]
+    },
+    {
+        "name": "TypeScript",
+        "path": "content/TypeScript",
+        "children": [
+            {
+                "name": "1. TypeScript.md",
+                "path": "content/TypeScript/1. TypeScript.md",
+                "children": null
+            }
+        ]
     }
 ]
