@@ -1,133 +1,150 @@
 [
     {
-        "name": "Algorithm",
-        "path": "content/Algorithm",
-        "children": [
+        "name": "Portfolio",
+        "path": "content/Portfolio",
+        "children":[]
+    },
+    {
+        "name": "Project",
+        "path": "content/Project",
+        "children":[
             {
-                "name": "Graph",
-                "path": "content/Algorithm/Graph",
-                "children": []
-            },
-            {
-                "name": "Tree",
-                "path": "content/Algorithm/Tree",
+                "name": "GithubPages",
+                "path": "content/Project/GithubPages",
                 "children": [
                     {
-                        "name": "Segment Tree.md",
-                        "path": "content/Algorithm/Tree/Segment Tree.md",
+                        "name": "1. GitHub Pages.md",
+                        "path": "content/Project/GithubPages/1. GitHub Pages.md",
+                        "children": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Study",
+        "path": "content/Study",
+        "children":[
+            {
+                "name": "Algorithm",
+                "path": "content/Study/Algorithm",
+                "children": [
+                    {
+                        "name": "Graph",
+                        "path": "content/Study/Algorithm/Graph",
+                        "children": []
+                    },
+                    {
+                        "name": "Tree",
+                        "path": "content/Study/Algorithm/Tree",
+                        "children": [
+                            {
+                                "name": "Segment Tree.md",
+                                "path": "content/Study/Algorithm/Tree/Segment Tree.md",
+                                "children": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Math",
+                        "path":"content/Study/Algorithm/Math",
+                        "children": [
+                            {
+                                "name": "sum of digits 0 to N.md",
+                                "path":"content/Study/Algorithm/Math/sum of digits 0 to N.md",
+                                "children": null
+                            }
+                        ]
+                    }
+                  ]
+            },
+            {
+                "name": "ReactJS",
+                "path": "content/Study/ReactJS",
+                "children": [
+                    {
+                        "name": "1. ReactJS.md",
+                        "path": "content/Study/ReactJS/1. ReactJS.md",
                         "children": null
                     }
                 ]
             },
             {
-                "name": "Math",
-                "path":"content/Algorithm/Math",
+                "name": "Spring",
+                "path": "content/Study/Spring",
                 "children": [
                     {
-                        "name": "sum of digits 0 to N.md",
-                        "path":"content/Algorithm/Math/sum of digits 0 to N.md",
+                        "name": "1. Spring Boot 소개.md",
+                        "path": "content/Study/Spring/1. Spring Boot 소개.md",
+                        "children": null
+                    },
+                    {
+                        "name": "2. Spring boot 프로젝트 생성 및 실행.md",
+                        "path": "content/Study/Spring/2. Spring boot 프로젝트 생성 및 실행.md",
+                        "children": null
+                    },
+                    {
+                        "name": "3. Spring IoC.md",
+                        "path": "content/Study/Spring/3. Spring IoC.md",
+                        "children": null
+                    },
+                    {
+                        "name": "4. 의존성 주입 (Dependency Injection).md",
+                        "path": "content/Study/Spring/4. 의존성 주입 (Dependency Injection).md",
+                        "children": null
+                    },
+                    {
+                        "name": "5. Spring Boot 코드 살펴보기.md",
+                        "path": "content/Study/Spring/5. Spring Boot 코드 살펴보기.md",
+                        "children": null
+                    },
+                    {
+                        "name": "6. 자동구성과 조건 (Auto Configuration and Conditional).md",
+                        "path": "content/Study/Spring/6. 자동구성과 조건 (Auto Configuration and Conditional).md",
+                        "children": null
+                    },
+                    {
+                        "name": "7. 외부구성 (Externalized Configuration).md",
+                        "path": "content/Study/Spring/7. 외부구성 (Externalized Configuration).md",
+                        "children": null
+                    },
+                    {
+                        "name": "8. 관점 지향 프로그래밍 (AOP) - 1.md",
+                        "path": "content/Study/Spring/8. 관점 지향 프로그래밍 (AOP) - 1.md",
+                        "children": null
+                    },
+                    {
+                        "name": "9. 관점 지향 프로그래밍 (AOP) - 2.md",
+                        "path": "content/Study/Spring/9. 관점 지향 프로그래밍 (AOP) - 2.md",
+                        "children": null
+                    },
+                    {
+                        "name": "9. 관점 지향 프로그래밍 (AOP) - 2.md",
+                        "path": "content/Study/Spring/9. 관점 지향 프로그래밍 (AOP) - 2.md",
+                        "children": null
+                    },
+                    {
+                        "name": "10. Spring Boot Test.md",
+                        "path": "content/Study/Spring/10. Spring Boot Test.md",
+                        "children": null
+                    },
+                    {
+                        "name": "11. 로깅.md",
+                        "path": "content/Study/Spring/11. 로깅.md",
                         "children": null
                     }
                 ]
-            }
-          ]
-    },
-    {
-        "name": "GithubPages",
-        "path": "content/GithubPages",
-        "children": [
-            {
-                "name": "1. GitHub Pages.md",
-                "path": "content/GithubPages/1. GitHub Pages.md",
-                "children": null
-            }
-        ]
-    },
-    {
-        "name": "ReactJS",
-        "path": "content/ReactJS",
-        "children": [
-            {
-                "name": "1. ReactJS.md",
-                "path": "content/ReactJS/1. ReactJS.md",
-                "children": null
-            }
-        ]
-    },
-    {
-        "name": "Spring",
-        "path": "content/Spring",
-        "children": [
-            {
-                "name": "1. Spring Boot 소개.md",
-                "path": "content/Spring/1. Spring Boot 소개.md",
-                "children": null
             },
             {
-                "name": "2. Spring boot 프로젝트 생성 및 실행.md",
-                "path": "content/Spring/2. Spring boot 프로젝트 생성 및 실행.md",
-                "children": null
-            },
-            {
-                "name": "3. Spring IoC.md",
-                "path": "content/Spring/3. Spring IoC.md",
-                "children": null
-            },
-            {
-                "name": "4. 의존성 주입 (Dependency Injection).md",
-                "path": "content/Spring/4. 의존성 주입 (Dependency Injection).md",
-                "children": null
-            },
-            {
-                "name": "5. Spring Boot 코드 살펴보기.md",
-                "path": "content/Spring/5. Spring Boot 코드 살펴보기.md",
-                "children": null
-            },
-            {
-                "name": "6. 자동구성과 조건 (Auto Configuration and Conditional).md",
-                "path": "content/Spring/6. 자동구성과 조건 (Auto Configuration and Conditional).md",
-                "children": null
-            },
-            {
-                "name": "7. 외부구성 (Externalized Configuration).md",
-                "path": "content/Spring/7. 외부구성 (Externalized Configuration).md",
-                "children": null
-            },
-            {
-                "name": "8. 관점 지향 프로그래밍 (AOP) - 1.md",
-                "path": "content/Spring/8. 관점 지향 프로그래밍 (AOP) - 1.md",
-                "children": null
-            },
-            {
-                "name": "9. 관점 지향 프로그래밍 (AOP) - 2.md",
-                "path": "content/Spring/9. 관점 지향 프로그래밍 (AOP) - 2.md",
-                "children": null
-            },
-            {
-                "name": "9. 관점 지향 프로그래밍 (AOP) - 2.md",
-                "path": "content/Spring/9. 관점 지향 프로그래밍 (AOP) - 2.md",
-                "children": null
-            },
-            {
-                "name": "10. Spring Boot Test.md",
-                "path": "content/Spring/10. Spring Boot Test.md",
-                "children": null
-            },
-            {
-                "name": "11. 로깅.md",
-                "path": "content/Spring/11. 로깅.md",
-                "children": null
-            }
-        ]
-    },
-    {
-        "name": "TypeScript",
-        "path": "content/TypeScript",
-        "children": [
-            {
-                "name": "1. TypeScript.md",
-                "path": "content/TypeScript/1. TypeScript.md",
-                "children": null
+                "name": "TypeScript",
+                "path": "content/Study/TypeScript",
+                "children": [
+                    {
+                        "name": "1. TypeScript.md",
+                        "path": "content/Study/TypeScript/1. TypeScript.md",
+                        "children": null
+                    }
+                ]
             }
         ]
     }
