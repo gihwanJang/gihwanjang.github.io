@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.039108df.css",
-    "main.js": "/static/js/main.48404dfd.js",
-    "static/media/icon-github.png": "/static/media/icon-github.9f770e3f71716fc526f8.png",
-    "static/media/menu.svg": "/static/media/menu.b033da31198cfc90b843.svg",
-    "index.html": "/index.html",
-    "main.039108df.css.map": "/static/css/main.039108df.css.map",
-    "main.48404dfd.js.map": "/static/js/main.48404dfd.js.map"
+    "main.css": "/gihwanJang.github.io/static/css/main.8699c420.css",
+    "main.js": "/gihwanJang.github.io/static/js/main.48404dfd.js",
+    "static/media/icon-github.png": "/gihwanJang.github.io/static/media/icon-github.9f770e3f71716fc526f8.png",
+    "index.html": "/gihwanJang.github.io/index.html",
+    "static/media/menu.svg": "/gihwanJang.github.io/static/media/menu.b033da31198cfc90b843.svg",
+    "main.8699c420.css.map": "/gihwanJang.github.io/static/css/main.8699c420.css.map",
+    "main.48404dfd.js.map": "/gihwanJang.github.io/static/js/main.48404dfd.js.map"
   },
   "entrypoints": [
-    "static/css/main.039108df.css",
+    "static/css/main.8699c420.css",
     "static/js/main.48404dfd.js"
   ]
 }
