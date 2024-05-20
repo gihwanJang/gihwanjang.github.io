@@ -132,6 +132,11 @@
                         "name": "11. 로깅.md",
                         "path": "content/Study/Spring/11. 로깅.md",
                         "children": null
+                    },
+                    {
+                        "name": "12. Spring MVC.md",
+                        "path": "content/Study/Spring/12. Spring MVC.md",
+                        "children": null
                     }
                 ]
             },
