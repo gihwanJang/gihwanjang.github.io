@@ -66,6 +66,17 @@
                                 "children": null
                             }
                         ]
+                    },
+                    {
+                        "name": "BOJ",
+                        "path":"content/Study/Algorithm/BOJ",
+                        "children": [
+                            {
+                                "name": "베스트앨범",
+                                "path":"content/Study/Algorithm/BOJ/BOJ 2179 비슷한 단어.md",
+                                "children": null
+                            }
+                        ]
                     }
                   ]
             },
