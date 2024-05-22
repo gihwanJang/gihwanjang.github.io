@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@snaddyvitch-dispenser/react-router-sitemap": "^1.2.6",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -11,22 +12,27 @@
     "@types/react": "^18.3.1",
     "@types/react-dom": "^18.3.0",
     "@types/react-router-dom": "^5.3.3",
+    "@uiw/react-markdown-preview": "^5.1.1",
     "react": "^18.3.1",
+    "react-adsense-google": "^1.3.1",
     "react-dom": "^18.3.1",
+    "react-markdown": "^9.0.1",
     "react-router-dom": "^6.23.1",
     "react-scripts": "5.0.1",
+    "sitemap": "^7.1.1",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
+    "sitemap": "node src/builder/sitemap-builder.js",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "build": "react-scripts build",
+    "build": "react-scripts build && shx cp build/index.html build/404.html",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://gihwanjang.github.io/",
+  "homepage": "https://gihwanjang.github.io",
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -46,6 +52,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.1.1",
+    "shx": "^0.3.4"
   }
 }

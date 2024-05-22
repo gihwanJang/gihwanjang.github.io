@@ -3,7 +3,11 @@ import './style.css'
 import { useNavigate } from 'react-router-dom';
 import { MAIN_PATH } from 'constant';
 
-export default function Header() {
+interface HeaderProps {
+    onMenuToggle: () => void;
+}
+
+export default function Header({ onMenuToggle }: HeaderProps) {
     const navigate = useNavigate();
 
     const onLogoClickHandler = () => {
@@ -15,10 +19,10 @@ export default function Header() {
             <div className='header-behind' />
             <header className='header'>
                 <div className="logo" onClick={onLogoClickHandler}>
-                    <strong>Gihwan'</strong>s Code Chronicles
+                    <strong>Gihwan'</strong>s Code Pages
                 </div>
                 <div className='menu'>
-                    <div className='header-icon-button'>
+                    <div className='header-icon-button' onClick={onMenuToggle}>
                         <div className='icon menu-icon'></div>
                     </div>
                 </div>

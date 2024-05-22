@@ -15,13 +15,12 @@
 
 .header-behind {
     height: 4.25em;
-    background: #1c1c1c;
 }
 
 .logo {
     display: inline-block;
     height: inherit;
-    left: 8em;
+    left: 1em;
     line-height: inherit;
     margin: 0;
     padding: 0;
@@ -40,7 +39,7 @@
 
 .menu {
     height: inherit;
-    right: 8em;
+    right: 1em;
     line-height: inherit;
     position: absolute;
     color: #fff;
@@ -61,6 +60,7 @@
 }
 
 .icon {
+    border-radius: 20% 20%;
     width: 100%;
     height: 100%;
 

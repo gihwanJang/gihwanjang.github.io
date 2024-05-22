@@ -1,0 +1,27 @@
+.hero {
+    background: linear-gradient(to right, #1e90ff, #00bfff);
+    color: #fff;
+    padding: 4rem 0;
+    text-align: center;
+    animation: slideIn 1s ease-out;
+}
+
+@keyframes slideIn {
+    from { transform: translateX(-100%); }
+    to { transform: translateX(0); }
+}
+
+.hero .container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.recent-posts {
+    padding: 2rem 0;
+    animation: fadeIn 1.5s ease-in-out;
+}
+
+.recent-posts .container {
+    max-width: 800px;
+    margin: 0 auto;
+}

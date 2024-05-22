@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Ensure it takes the full height of the viewport */
+}
+
+.content {
+    height: auto;
+    min-height: 100vh;
+    flex: 1; /* This makes sure the content area takes up the remaining space */
+}
+
+#app, header, main {
+    position: relative; /* Ensure they do not create stacking contexts with higher z-index */
+    z-index: auto; /* Ensure they do not interfere */
+}
