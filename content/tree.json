@@ -74,6 +74,11 @@
                                 "name": "다리를 지나는 트럭",
                                 "path":"content/Study/Algorithm/Programmers/다리를 지나는 트럭.md",
                                 "children": null
+                            },
+                            {
+                                "name": "주식가격",
+                                "path":"content/Study/Algorithm/Programmers/주식가격.md",
+                                "children": null
                             }
                         ]
                     },
