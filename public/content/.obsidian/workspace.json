@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Algorithm/Programmers/다리를 지나는 트럭.md",
+                "file": "Study/Algorithm/Programmers/주식가격.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Algorithm/Programmers/다리를 지나는 트럭.md",
+                "file": "Study/Algorithm/Programmers/주식가격.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Algorithm/Programmers/다리를 지나는 트럭.md",
+                "file": "Study/Algorithm/Programmers/주식가격.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Algorithm/Programmers/다리를 지나는 트럭.md"
+                "file": "Study/Algorithm/Programmers/주식가격.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   "active": "d548d52be1041612",
   "lastOpenFiles": [
     "Study/Algorithm/Programmers/베스트앨범.md",
+    "Study/Algorithm/Programmers/주식가격.md",
+    "Project/GithubPages/2. GitHub Pages.md",
     "Study/Algorithm/Programmers/다리를 지나는 트럭.md",
-    "Project/GithubPages/2. GiHub Pages.md",
     "Study/Spring/14. Spring MVC Etc.md",
     "Study/Spring/13. 예외 처리 (Exception Handling).md",
     "Study/TypeScript/4. Function.md",
@@ -186,7 +187,6 @@
     "img",
     "Study/Spring/1. Spring Boot 소개.md",
     "img/Inline-image-2024-03-16.md",
-    "Study/Spring/2. Spring boot 프로젝트 생성 및 실행.md",
     "Portfolio/img",
     "Portfolio",
     "Study",
