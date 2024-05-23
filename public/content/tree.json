@@ -13,8 +13,13 @@
                 "path": "content/Project/GithubPages",
                 "children": [
                     {
-                        "name": "1. GitHub Pages.md",
+                        "name": "1. GitHub Pages",
                         "path": "content/Project/GithubPages/1. GitHub Pages.md",
+                        "children": null
+                    },
+                    {
+                        "name": "2. GitHub Pages",
+                        "path": "content/Project/GithubPages/2. GitHub Pages.md",
                         "children": null
                     }
                 ]
@@ -64,6 +69,11 @@
                                 "name": "베스트앨범",
                                 "path":"content/Study/Algorithm/Programmers/베스트앨범.md",
                                 "children": null
+                            },
+                            {
+                                "name": "다리를 지나는 트럭",
+                                "path":"content/Study/Algorithm/Programmers/다리를 지나는 트럭.md",
+                                "children": null
                             }
                         ]
                     },
@@ -96,68 +106,78 @@
                 "path": "content/Study/Spring",
                 "children": [
                     {
-                        "name": "1. Spring Boot 소개.md",
+                        "name": "1. Spring Boot 소개",
                         "path": "content/Study/Spring/1. Spring Boot 소개.md",
                         "children": null
                     },
                     {
-                        "name": "2. Spring boot 프로젝트 생성 및 실행.md",
+                        "name": "2. Spring boot 프로젝트 생성 및 실행",
                         "path": "content/Study/Spring/2. Spring boot 프로젝트 생성 및 실행.md",
                         "children": null
                     },
                     {
-                        "name": "3. Spring IoC.md",
+                        "name": "3. Spring IoC",
                         "path": "content/Study/Spring/3. Spring IoC.md",
                         "children": null
                     },
                     {
-                        "name": "4. 의존성 주입 (Dependency Injection).md",
+                        "name": "4. 의존성 주입 (Dependency Injection)",
                         "path": "content/Study/Spring/4. 의존성 주입 (Dependency Injection).md",
                         "children": null
                     },
                     {
-                        "name": "5. Spring Boot 코드 살펴보기.md",
+                        "name": "5. Spring Boot 코드 살펴보기",
                         "path": "content/Study/Spring/5. Spring Boot 코드 살펴보기.md",
                         "children": null
                     },
                     {
-                        "name": "6. 자동구성과 조건 (Auto Configuration and Conditional).md",
+                        "name": "6. 자동구성과 조건 (Auto Configuration and Conditional)",
                         "path": "content/Study/Spring/6. 자동구성과 조건 (Auto Configuration and Conditional).md",
                         "children": null
                     },
                     {
-                        "name": "7. 외부구성 (Externalized Configuration).md",
+                        "name": "7. 외부구성 (Externalized Configuration)",
                         "path": "content/Study/Spring/7. 외부구성 (Externalized Configuration).md",
                         "children": null
                     },
                     {
-                        "name": "8. 관점 지향 프로그래밍 (AOP) - 1.md",
+                        "name": "8. 관점 지향 프로그래밍 (AOP) - 1",
                         "path": "content/Study/Spring/8. 관점 지향 프로그래밍 (AOP) - 1.md",
                         "children": null
                     },
                     {
-                        "name": "9. 관점 지향 프로그래밍 (AOP) - 2.md",
+                        "name": "9. 관점 지향 프로그래밍 (AOP) - 2",
                         "path": "content/Study/Spring/9. 관점 지향 프로그래밍 (AOP) - 2.md",
                         "children": null
                     },
                     {
-                        "name": "9. 관점 지향 프로그래밍 (AOP) - 2.md",
+                        "name": "9. 관점 지향 프로그래밍 (AOP) - 2",
                         "path": "content/Study/Spring/9. 관점 지향 프로그래밍 (AOP) - 2.md",
                         "children": null
                     },
                     {
-                        "name": "10. Spring Boot Test.md",
+                        "name": "10. Spring Boot Test",
                         "path": "content/Study/Spring/10. Spring Boot Test.md",
                         "children": null
                     },
                     {
-                        "name": "11. 로깅.md",
+                        "name": "11. 로깅",
                         "path": "content/Study/Spring/11. 로깅.md",
                         "children": null
                     },
                     {
-                        "name": "12. Spring MVC.md",
+                        "name": "12. Spring MVC",
                         "path": "content/Study/Spring/12. Spring MVC.md",
+                        "children": null
+                    },
+                    {
+                        "name": "13. 예외 처리 (Exception Handling)",
+                        "path": "content/Study/Spring/13. 예외 처리 (Exception Handling).md",
+                        "children": null
+                    },
+                    {
+                        "name": "14. Spring MVC Etc",
+                        "path": "content/Study/Spring/14. Spring MVC Etc.md",
                         "children": null
                     }
                 ]
@@ -167,8 +187,23 @@
                 "path": "content/Study/TypeScript",
                 "children": [
                     {
-                        "name": "1. TypeScript.md",
+                        "name": "1. TypeScript",
                         "path": "content/Study/TypeScript/1. TypeScript.md",
+                        "children": null
+                    },
+                    {
+                        "name": "2. Type",
+                        "path": "content/Study/TypeScript/2. Type.md",
+                        "children": null
+                    },
+                    {
+                        "name": "3. Interface",
+                        "path": "content/Study/TypeScript/3. Interface.md",
+                        "children": null
+                    },
+                    {
+                        "name": "4. Function",
+                        "path": "content/Study/TypeScript/4. Function.md",
                         "children": null
                     }
                 ]

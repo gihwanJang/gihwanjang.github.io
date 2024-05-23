@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "afe6fe18cfe8dd3d",
+        "id": "2a6e4c2c92748080",
         "type": "tabs",
         "children": [
           {
-            "id": "a2fb1517bb828435",
+            "id": "d548d52be1041612",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Spring/14. Spring MVC Etc.md",
-                "mode": "preview",
+                "file": "Study/Algorithm/Programmers/다리를 지나는 트럭.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Spring/14. Spring MVC Etc.md",
+                "file": "Study/Algorithm/Programmers/다리를 지나는 트럭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Spring/14. Spring MVC Etc.md",
+                "file": "Study/Algorithm/Programmers/다리를 지나는 트럭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Spring/14. Spring MVC Etc.md"
+                "file": "Study/Algorithm/Programmers/다리를 지나는 트럭.md"
               }
             }
           }
@@ -146,11 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2fb1517bb828435",
+  "active": "d548d52be1041612",
   "lastOpenFiles": [
-    "Study/Algorithm/BOJ/BOJ 2179 비슷한 단어.md",
+    "Study/Algorithm/Programmers/베스트앨범.md",
+    "Study/Algorithm/Programmers/다리를 지나는 트럭.md",
+    "Project/GithubPages/2. GiHub Pages.md",
     "Study/Spring/14. Spring MVC Etc.md",
     "Study/Spring/13. 예외 처리 (Exception Handling).md",
+    "Study/TypeScript/4. Function.md",
+    "Study/TypeScript/3. Interface.md",
+    "Study/TypeScript/2. Type.md",
+    "Portfolio/portfolio.md",
+    "Project/GithubPages/1. GitHub Pages.md",
+    "2024-05-22.md",
+    "Study/Algorithm/BOJ/BOJ 2179 비슷한 단어.md",
     "Study/Spring/img/12_img9.png",
     "Study/Spring/11. 로깅.md",
     "Study/Spring/img/11_img1.png",
@@ -165,7 +174,6 @@
     "Study/Spring/img/13_img1.png",
     "Study/Spring/img/13_img2.png",
     "Study/Spring/img/13_img3.png",
-    "Study/Algorithm/Programmers/베스트앨범.md",
     "Study/Algorithm/BOJ",
     "Study/Algorithm/Programmers",
     "Study/Spring/7. 외부구성 (Externalized Configuration).md",
@@ -177,23 +185,15 @@
     "img/12_image1.md",
     "img",
     "Study/Spring/1. Spring Boot 소개.md",
-    "Portfolio/portfolio.md",
     "img/Inline-image-2024-03-16.md",
     "Study/Spring/2. Spring boot 프로젝트 생성 및 실행.md",
-    "Project/GithubPages/1. GitHub Pages.md",
     "Portfolio/img",
     "Portfolio",
     "Study",
     "Project",
-    "Study/Algorithm/Tree/Segment Tree.md",
-    "Study/Algorithm/Math/sum of digits 0 to N.md",
-    "1. GitHub Pages.md",
-    "Spring/Untitled.md",
-    "2024-05-16.md",
     "Untitled.canvas",
     "Spring/Untitled",
     "Study/Spring/img",
-    "Study/ReactJS/1. ReactJS.md",
     "Study/ReactJS"
   ]
 }
