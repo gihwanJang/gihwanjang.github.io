@@ -79,6 +79,11 @@
                                 "name": "주식가격",
                                 "path":"content/Study/Algorithm/Programmers/주식가격.md",
                                 "children": null
+                            },
+                            {
+                                "name": "디스크 컨트롤러",
+                                "path":"content/Study/Algorithm/Programmers/디스크 컨트롤러.md",
+                                "children": null
                             }
                         ]
                     },

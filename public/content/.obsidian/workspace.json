@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Algorithm/Programmers/주식가격.md",
+                "file": "Study/Algorithm/Programmers/디스크 컨트롤러.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Algorithm/Programmers/주식가격.md",
+                "file": "Study/Algorithm/Programmers/디스크 컨트롤러.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Algorithm/Programmers/주식가격.md",
+                "file": "Study/Algorithm/Programmers/디스크 컨트롤러.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Algorithm/Programmers/주식가격.md"
+                "file": "Study/Algorithm/Programmers/디스크 컨트롤러.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "d548d52be1041612",
   "lastOpenFiles": [
-    "Study/Algorithm/Programmers/베스트앨범.md",
     "Study/Algorithm/Programmers/주식가격.md",
+    "Study/Algorithm/Programmers/디스크 컨트롤러.md",
+    "Study/Algorithm/Programmers/베스트앨범.md",
     "Project/GithubPages/2. GitHub Pages.md",
     "Study/Algorithm/Programmers/다리를 지나는 트럭.md",
     "Study/Spring/14. Spring MVC Etc.md",
@@ -186,7 +187,6 @@
     "img/12_image1.md",
     "img",
     "Study/Spring/1. Spring Boot 소개.md",
-    "img/Inline-image-2024-03-16.md",
     "Portfolio/img",
     "Portfolio",
     "Study",
