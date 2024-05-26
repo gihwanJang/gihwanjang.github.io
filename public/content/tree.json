@@ -84,6 +84,11 @@
                                 "name": "디스크 컨트롤러",
                                 "path":"content/Study/Algorithm/Programmers/디스크 컨트롤러.md",
                                 "children": null
+                            },
+                            {
+                                "name": "이중우선순위큐",
+                                "path":"content/Study/Algorithm/Programmers/이중우선순위큐.md",
+                                "children": null
                             }
                         ]
                     },
