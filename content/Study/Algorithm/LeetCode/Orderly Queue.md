@@ -48,35 +48,32 @@ Return _the lexicographically smallest string you could have after applying the
 
 `k`가 1인 경우는 모든 경우의 수를 만들수 없으므로 하나씩 뒤로 옮겨가며 모든 문자열을 만들어 본뒤 그중 가장 사전 순으로 빠른 것을 출력해 주시면 됩니다.
 
-이때 `TreeSet`을 사용하면 순환여부를 판단할 수 있으며 사전 순으로 가장 빠르다는 것을 판단하기 편합니다.
-
 ```java
 
-class Solution {
-	private TreeSet<String> set;
-
-	public Solution() {
-		set = new TreeSet<>();	
-	}
-
-	public String orderlyQueue(String s, int k) {
-		if (k == 1) {
-			brouteForce(s);
-			return set.first();
-		}
-		char[] string = s.toCharArray();
-		Arrays.sort(string);
-		return String.valueOf(string);
-	}
-	
-	private void brouteForce(String s) {
-		StringBuilder sb = new StringBuilder(s);
-		while (!set.contains(sb.toString())) {
-			set.add(sb.toString());
-			sb.append(sb.charAt(0));
-			sb.deleteCharAt(0);
-		}	
-	}
+class Solution {  
+    public String orderlyQueue(String s, int k) {  
+        if (k == 1) {  
+            return brouteForce(s);  
+        }  
+  
+        char[] string = s.toCharArray();  
+        Arrays.sort(string);  
+        return String.valueOf(string);  
+    }  
+  
+    private String brouteForce(String s) {  
+        String ret = s;  
+        StringBuilder sb = new StringBuilder(s);  
+  
+        for (int i = 0; i < s.length(); ++i) {  
+            sb.append(sb.charAt(0));  
+            sb.deleteCharAt(0);  
+            if (ret.compareTo(sb.toString()) > 0) {  
+                ret = sb.toString();  
+            }  
+        }  
+        return ret;  
+    }  
 }
 
 ```
