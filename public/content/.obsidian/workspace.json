@@ -159,12 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b288cd02667c5fa8",
+  "active": "508942b0f904462c",
   "lastOpenFiles": [
-    "Study/Spring/18. Content Negotiation.md",
-    "Study/Spring/17. HandlerMethodArgumentResolver.md",
-    "Study/Spring/19. HTTP API 설계.md",
     "Study/Spring/img/19_img4.png",
+    "Study/Spring/18. Content Negotiation.md",
+    "Study/Spring/19. HTTP API 설계.md",
+    "Study/Spring/17. HandlerMethodArgumentResolver.md",
     "Study/Spring/img/19_img3.png",
     "Study/Spring/img/19_img2.png",
     "Study/Spring/img/19_img1.png",
