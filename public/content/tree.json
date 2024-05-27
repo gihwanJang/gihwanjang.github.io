@@ -102,6 +102,17 @@
                                 "children": null
                             }
                         ]
+                    },
+                    {
+                        "name": "LeetCode",
+                        "path":"content/Study/Algorithm/LeetCode",
+                        "children": [
+                            {
+                                "name": "Put Marbles in Bags",
+                                "path":"content/Study/Algorithm/LeetCode/Put Marbles in Bags.md",
+                                "children": null
+                            }
+                        ]
                     }
                   ]
             },
@@ -193,6 +204,11 @@
                     {
                         "name": "14. Spring MVC Etc",
                         "path": "content/Study/Spring/14. Spring MVC Etc.md",
+                        "children": null
+                    },
+                    {
+                        "name": "15. RestController (vs Controller)",
+                        "path": "content/Study/Spring/15. RestController (vs Controller).md",
                         "children": null
                     }
                 ]

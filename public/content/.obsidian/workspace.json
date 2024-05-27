@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Study/Spring/15. RestController (vs Controller).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c89654b52f432fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Study/Algorithm/Programmers/이중우선순위큐.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "bbdd580a7210ec3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/Algorithm/LeetCode/Put Marbles in Bags.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Algorithm/Programmers/이중우선순위큐.md",
+                "file": "Study/Algorithm/LeetCode/Put Marbles in Bags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Algorithm/Programmers/이중우선순위큐.md",
+                "file": "Study/Algorithm/LeetCode/Put Marbles in Bags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Algorithm/Programmers/이중우선순위큐.md"
+                "file": "Study/Algorithm/LeetCode/Put Marbles in Bags.md"
               }
             }
           }
@@ -146,9 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07f2066625141f87",
+  "active": "bbdd580a7210ec3c",
   "lastOpenFiles": [
+    "Study/Spring/15. RestController (vs Controller).md",
+    "Study/Spring/img/15_img1.png",
+    "Study/Spring/img/15_img2.png",
+    "Study/Algorithm/LeetCode/Put Marbles in Bags.md",
     "Study/Algorithm/Programmers/이중우선순위큐.md",
+    "Study/Algorithm/Programmers/주식가격.md",
+    "Study/Algorithm/LeetCode",
     "Study/Algorithm/Programmers/img/디스크_컨트롤러_img4.png",
     "Study/Algorithm/Programmers/디스크 컨트롤러.md",
     "Study/Algorithm/Programmers/img/디스크_컨트롤러_img3.png",
@@ -156,7 +187,6 @@
     "Study/Algorithm/Programmers/img/디스크_컨트롤러_img2.png",
     "Study/Algorithm/Programmers/img/디스크_컨트롤러_img1.png",
     "Study/Algorithm/Programmers/img",
-    "Study/Algorithm/Programmers/주식가격.md",
     "Study/Algorithm/Programmers/베스트앨범.md",
     "Project/GithubPages/2. GitHub Pages.md",
     "Study/Algorithm/Programmers/다리를 지나는 트럭.md",
@@ -176,24 +206,18 @@
     "Study/Spring/9. 관점 지향 프로그래밍 (AOP) - 2.md",
     "Study/Spring/img/9_img1.png",
     "Study/Spring/8. 관점 지향 프로그래밍 (AOP) - 1.md",
-    "Study/Spring/img/8_img1.png",
-    "Study/Spring/img/8_img2.png",
     "Study/Algorithm/BOJ",
     "Study/Algorithm/Programmers",
     "Study/Spring/7. 외부구성 (Externalized Configuration).md",
     "Study/Spring/6. 자동구성과 조건 (Auto Configuration and Conditional).md",
     "Study/Spring/5. Spring Boot 코드 살펴보기.md",
     "Study/Spring/4. 의존성 주입 (Dependency Injection).md",
-    "Study/Spring/3. Spring IoC.md",
-    "Study/Spring/12. Spring MVC.md",
-    "img/12_image1.md",
     "img",
     "Portfolio/img",
     "Portfolio",
     "Study",
     "Project",
     "Untitled.canvas",
-    "Spring/Untitled",
-    "Study/Spring/img"
+    "Spring/Untitled"
   ]
 }
