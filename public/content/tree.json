@@ -228,12 +228,12 @@
                     },
                     {
                         "name": "18. Content Negotiation",
-                        "path": "content/Study/Spring/18. Content Negotiation",
+                        "path": "content/Study/Spring/18. Content Negotiation.md",
                         "children": null
                     },
                     {
                         "name": "19. HTTP API 설계",
-                        "path": "content/Study/Spring/19. HTTP API 설계",
+                        "path": "content/Study/Spring/19. HTTP API 설계.md",
                         "children": null
                     }
                 ]
