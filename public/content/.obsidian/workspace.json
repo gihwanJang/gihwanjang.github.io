@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Algorithm/LeetCode/Orderly Queue.md",
+                "file": "Study/Spring/19. HTTP API 설계.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Algorithm/LeetCode/Orderly Queue.md",
+                "file": "Study/Spring/19. HTTP API 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Algorithm/LeetCode/Orderly Queue.md",
+                "file": "Study/Spring/19. HTTP API 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Algorithm/LeetCode/Orderly Queue.md"
+                "file": "Study/Spring/19. HTTP API 설계.md"
               }
             }
           }
@@ -159,9 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "508942b0f904462c",
+  "active": "b288cd02667c5fa8",
   "lastOpenFiles": [
+    "Study/Spring/18. Content Negotiation.md",
     "Study/Spring/17. HandlerMethodArgumentResolver.md",
+    "Study/Spring/19. HTTP API 설계.md",
+    "Study/Spring/img/19_img4.png",
+    "Study/Spring/img/19_img3.png",
+    "Study/Spring/img/19_img2.png",
+    "Study/Spring/img/19_img1.png",
+    "Study/Spring/img/18_img1.png",
+    "Study/Spring/img/18_img2.png",
     "Study/Algorithm/LeetCode/Orderly Queue.md",
     "Study/Algorithm/LeetCode/Put Marbles in Bags.md",
     "Study/Spring/16. HTTP Messsage Converter.md",
@@ -174,9 +182,6 @@
     "Study/Algorithm/Programmers/img/디스크_컨트롤러_img4.png",
     "Study/Algorithm/Programmers/디스크 컨트롤러.md",
     "Study/Algorithm/Programmers/img/디스크_컨트롤러_img3.png",
-    "Study/Algorithm/Programmers/img/스크린샷 2024-05-24 오후 1.29.05.png",
-    "Study/Algorithm/Programmers/img/디스크_컨트롤러_img2.png",
-    "Study/Algorithm/Programmers/img/디스크_컨트롤러_img1.png",
     "Study/Algorithm/Programmers/img",
     "Study/Algorithm/Programmers/베스트앨범.md",
     "Project/GithubPages/2. GitHub Pages.md",
@@ -190,17 +195,11 @@
     "Project/GithubPages/1. GitHub Pages.md",
     "2024-05-22.md",
     "Study/Algorithm/BOJ/BOJ 2179 비슷한 단어.md",
-    "Study/Spring/img/12_img9.png",
     "Study/Spring/11. 로깅.md",
-    "Study/Spring/img/11_img1.png",
     "Study/Spring/10. Spring Boot Test.md",
     "Study/Spring/9. 관점 지향 프로그래밍 (AOP) - 2.md",
-    "Study/Spring/img/9_img1.png",
-    "Study/Spring/8. 관점 지향 프로그래밍 (AOP) - 1.md",
     "Study/Algorithm/BOJ",
     "Study/Algorithm/Programmers",
-    "Study/Spring/7. 외부구성 (Externalized Configuration).md",
-    "Study/Spring/6. 자동구성과 조건 (Auto Configuration and Conditional).md",
     "img",
     "Portfolio/img",
     "Portfolio",

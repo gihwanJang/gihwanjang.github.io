@@ -220,6 +220,21 @@
                         "name": "16. HTTP Messsage Converter",
                         "path": "content/Study/Spring/16. HTTP Messsage Converter.md",
                         "children": null
+                    },
+                    {
+                        "name": "17. HandlerMethodArgumentResolver",
+                        "path": "content/Study/Spring/17. HandlerMethodArgumentResolver.md",
+                        "children": null
+                    },
+                    {
+                        "name": "18. Content Negotiation",
+                        "path": "content/Study/Spring/18. Content Negotiation",
+                        "children": null
+                    },
+                    {
+                        "name": "19. HTTP API 설계",
+                        "path": "content/Study/Spring/19. HTTP API 설계",
+                        "children": null
                     }
                 ]
             },
