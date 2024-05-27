@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Study/Spring/17. HandlerMethodArgumentResolver.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "508942b0f904462c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Study/Algorithm/LeetCode/Orderly Queue.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07f2066625141f87",
+  "active": "508942b0f904462c",
   "lastOpenFiles": [
-    "Study/Algorithm/LeetCode/Put Marbles in Bags.md",
+    "Study/Spring/17. HandlerMethodArgumentResolver.md",
     "Study/Algorithm/LeetCode/Orderly Queue.md",
+    "Study/Algorithm/LeetCode/Put Marbles in Bags.md",
     "Study/Spring/16. HTTP Messsage Converter.md",
     "Study/Spring/15. RestController (vs Controller).md",
     "Study/Algorithm/Programmers/이중우선순위큐.md",
@@ -187,7 +201,6 @@
     "Study/Algorithm/Programmers",
     "Study/Spring/7. 외부구성 (Externalized Configuration).md",
     "Study/Spring/6. 자동구성과 조건 (Auto Configuration and Conditional).md",
-    "Study/Spring/5. Spring Boot 코드 살펴보기.md",
     "img",
     "Portfolio/img",
     "Portfolio",

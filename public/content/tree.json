@@ -111,6 +111,11 @@
                                 "name": "Put Marbles in Bags",
                                 "path":"content/Study/Algorithm/LeetCode/Put Marbles in Bags.md",
                                 "children": null
+                            },
+                            {
+                                "name": "Orderly Queue",
+                                "path":"content/Study/Algorithm/LeetCode/Orderly Queue.md",
+                                "children": null
                             }
                         ]
                     }
