@@ -94,6 +94,11 @@
                                 "name": "모음 사전",
                                 "path":"content/Study/Algorithm/Programmers/모음 사전.md",
                                 "children": null
+                            },
+                            {
+                                "name": "전력망을 둘로 나누기",
+                                "path":"content/Study/Algorithm/Programmers/전력망을 둘로 나누기.md",
+                                "children": null
                             }
                         ]
                     },
