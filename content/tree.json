@@ -250,6 +250,11 @@
                         "name": "21. Spring Security",
                         "path": "content/Study/Spring/21. Spring Security.md",
                         "children": null
+                    },
+                    {
+                        "name": "22. Spring Security(2)",
+                        "path": "content/Study/Spring/22. Spring Security(2).md",
+                        "children": null
                     }
                 ]
             },
