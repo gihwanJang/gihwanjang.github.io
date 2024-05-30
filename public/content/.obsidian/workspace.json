@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Spring/22. Spring Security(2).md",
-                "mode": "source",
+                "file": "Study/Algorithm/Programmers/퍼즐 조각 채우기.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Spring/22. Spring Security(2).md",
+                "file": "Study/Algorithm/Programmers/퍼즐 조각 채우기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Spring/22. Spring Security(2).md",
+                "file": "Study/Algorithm/Programmers/퍼즐 조각 채우기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Spring/22. Spring Security(2).md"
+                "file": "Study/Algorithm/Programmers/퍼즐 조각 채우기.md"
               }
             }
           }
@@ -148,22 +148,23 @@
   },
   "active": "07f2066625141f87",
   "lastOpenFiles": [
+    "Study/Algorithm/Programmers/주식가격.md",
+    "Study/Algorithm/Programmers/퍼즐 조각 채우기.md",
+    "Study/Algorithm/Programmers/img/퍼즐_조각_채우기_1.png",
+    "Study/Algorithm/Programmers/img/퍼즐_조각_채우기_2.png",
+    "Study/Algorithm/Programmers/img/퍼즐_조각_채우기_3.png",
+    "Study/Algorithm/Programmers/img/퍼즐_조각_채우기_4.png",
+    "Study/Spring/22. Spring Security(2).md",
     "Study/Algorithm/Programmers/전력망을 둘로 나누기.md",
     "Study/Algorithm/Programmers/img/전력망을_둘로_나누기_1.png",
     "Study/Algorithm/Programmers/img/전력망을_둘로_나누기_2.png",
     "Study/Algorithm/Programmers/img/전력망을_둘로_나누기_3.png",
-    "Study/Spring/22. Spring Security(2).md",
     "Study/Spring/img/22_img1.svg",
     "Study/Spring/img/22_img2.png",
     "Study/Spring/img/22_img3.png",
     "Study/Algorithm/Programmers/모음 사전.md",
-    "Study/Algorithm/Programmers/주식가격.md",
     "Study/Spring/21. Spring Security.md",
     "Study/Spring/20. Redis.md",
-    "Study/Spring/img/21_img1.png",
-    "Study/Spring/img/21_img2.png",
-    "Study/Spring/img/21_img3.png",
-    "Study/Spring/img/21_img4.png",
     "Study/Algorithm/LeetCode/Orderly Queue.md",
     "Study/Spring/19. HTTP API 설계.md",
     "Study/Spring/18. Content Negotiation.md",
@@ -184,7 +185,6 @@
     "Study/TypeScript/3. Interface.md",
     "Study/TypeScript/2. Type.md",
     "Portfolio/portfolio.md",
-    "Project/GithubPages/1. GitHub Pages.md",
     "Study/Algorithm/BOJ",
     "Study/Algorithm/Programmers",
     "img",

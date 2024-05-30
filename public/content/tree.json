@@ -99,6 +99,11 @@
                                 "name": "전력망을 둘로 나누기",
                                 "path":"content/Study/Algorithm/Programmers/전력망을 둘로 나누기.md",
                                 "children": null
+                            },
+                            {
+                                "name": "퍼즐 조각 채우기",
+                                "path":"content/Study/Algorithm/Programmers/퍼즐 조각 채우기.md",
+                                "children": null
                             }
                         ]
                     },
