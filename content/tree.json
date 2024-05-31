@@ -104,6 +104,11 @@
                                 "name": "퍼즐 조각 채우기",
                                 "path":"content/Study/Algorithm/Programmers/퍼즐 조각 채우기.md",
                                 "children": null
+                            },
+                            {
+                                "name": "여행경로",
+                                "path":"content/Study/Algorithm/Programmers/여행경로.md",
+                                "children": null
                             }
                         ]
                     },
