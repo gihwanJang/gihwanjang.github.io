@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Algorithm/Programmers/퍼즐 조각 채우기.md",
+                "file": "Study/Algorithm/Programmers/여행경로.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Algorithm/Programmers/퍼즐 조각 채우기.md",
+                "file": "Study/Algorithm/Programmers/여행경로.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Algorithm/Programmers/퍼즐 조각 채우기.md",
+                "file": "Study/Algorithm/Programmers/여행경로.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Algorithm/Programmers/퍼즐 조각 채우기.md"
+                "file": "Study/Algorithm/Programmers/여행경로.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "07f2066625141f87",
   "lastOpenFiles": [
-    "Study/Algorithm/Programmers/주식가격.md",
     "Study/Algorithm/Programmers/퍼즐 조각 채우기.md",
+    "Study/Algorithm/Programmers/여행경로.md",
+    "Study/Algorithm/Programmers/주식가격.md",
     "Study/Algorithm/Programmers/img/퍼즐_조각_채우기_1.png",
     "Study/Algorithm/Programmers/img/퍼즐_조각_채우기_2.png",
     "Study/Algorithm/Programmers/img/퍼즐_조각_채우기_3.png",
