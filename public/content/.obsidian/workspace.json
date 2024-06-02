@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Algorithm/Programmers/아이템 줍기.md",
+                "file": "Study/Algorithm/Programmers/단어 변환.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bfa672db33ea177",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/Algorithm/Programmers/다리를 지나는 트럭.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Algorithm/Programmers/아이템 줍기.md",
+                "file": "Study/Algorithm/Programmers/단어 변환.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Algorithm/Programmers/아이템 줍기.md",
+                "file": "Study/Algorithm/Programmers/단어 변환.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Algorithm/Programmers/아이템 줍기.md"
+                "file": "Study/Algorithm/Programmers/단어 변환.md"
               }
             }
           }
@@ -148,6 +160,9 @@
   },
   "active": "07f2066625141f87",
   "lastOpenFiles": [
+    "Study/Algorithm/Programmers/다리를 지나는 트럭.md",
+    "Study/Algorithm/Programmers/단어 변환.md",
+    "Study/Algorithm/Programmers/아이템 줍기.md",
     "Study/Algorithm/Programmers/img/아이템_줍기_1.png",
     "Study/Algorithm/Programmers/img/아이템_줍기_2.png",
     "Study/Algorithm/Programmers/img/아이템_줍기_3.png",
@@ -157,13 +172,11 @@
     "Study/Algorithm/Programmers/img/아이템_줍기_7.png",
     "Study/Algorithm/Programmers/img/아이템_줍기_8.png",
     "Study/Algorithm/Programmers/퍼즐 조각 채우기.md",
-    "Study/Algorithm/Programmers/아이템 줍기.md",
     "Portfolio/portfolio.md",
     "Study/Algorithm/Programmers/여행경로.md",
     "Study/Algorithm/Programmers/주식가격.md",
     "Study/Algorithm/Programmers/img/퍼즐_조각_채우기_1.png",
     "Study/Algorithm/Programmers/img/퍼즐_조각_채우기_2.png",
-    "Study/Algorithm/Programmers/img/퍼즐_조각_채우기_3.png",
     "Study/Spring/22. Spring Security(2).md",
     "Study/Algorithm/Programmers/전력망을 둘로 나누기.md",
     "Study/Algorithm/Programmers/모음 사전.md",
@@ -182,7 +195,6 @@
     "Study/Algorithm/Programmers/img",
     "Study/Algorithm/Programmers/베스트앨범.md",
     "Project/GithubPages/2. GitHub Pages.md",
-    "Study/Algorithm/Programmers/다리를 지나는 트럭.md",
     "Study/Spring/14. Spring MVC Etc.md",
     "Study/Spring/13. 예외 처리 (Exception Handling).md",
     "Study/TypeScript/4. Function.md",
