@@ -114,6 +114,11 @@
                                 "name": "아이템 줍기",
                                 "path":"content/Study/Algorithm/Programmers/아이템 줍기.md",
                                 "children": null
+                            },
+                            {
+                                "name": "단어 변환",
+                                "path":"content/Study/Algorithm/Programmers/단어 변환.md",
+                                "children": null
                             }
                         ]
                     },
