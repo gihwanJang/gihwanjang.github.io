@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Algorithm/Programmers/네트워크.md",
-                "mode": "source",
+                "file": "Study/Spring/24 JPA(2).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Algorithm/Programmers/네트워크.md",
+                "file": "Study/Spring/24 JPA(2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Algorithm/Programmers/네트워크.md",
+                "file": "Study/Spring/24 JPA(2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Algorithm/Programmers/네트워크.md"
+                "file": "Study/Spring/24 JPA(2).md"
               }
             }
           }
@@ -161,9 +161,15 @@
   },
   "active": "6bfa672db33ea177",
   "lastOpenFiles": [
+    "Study/Spring/img/24_img5.png",
+    "Study/Spring/img/24_img4.png",
+    "Study/Spring/img/24_img2.png",
+    "Study/Spring/img/24_img3.png",
+    "Study/Spring/img/24_img1.png",
+    "Study/Algorithm/Programmers/네트워크.md",
+    "Study/Spring/24 JPA(2).md",
     "Study/Algorithm/Programmers/다리를 지나는 트럭.md",
     "Study/Spring/23. JPA(1).md",
-    "Study/Algorithm/Programmers/네트워크.md",
     "Study/Algorithm/Programmers/img/네트워크1.png",
     "Study/Algorithm/Programmers/img/네트워크2.png",
     "Study/Spring/img/23_img5.png",
@@ -172,10 +178,6 @@
     "Study/Spring/img/23_img3.png",
     "Study/Algorithm/Programmers/단어 변환.md",
     "Study/Algorithm/Programmers/아이템 줍기.md",
-    "Study/Algorithm/Programmers/img/아이템_줍기_1.png",
-    "Study/Algorithm/Programmers/img/아이템_줍기_2.png",
-    "Study/Algorithm/Programmers/img/아이템_줍기_3.png",
-    "Study/Algorithm/Programmers/img/아이템_줍기_4.png",
     "Study/Algorithm/Programmers/퍼즐 조각 채우기.md",
     "Portfolio/portfolio.md",
     "Study/Algorithm/Programmers/여행경로.md",
@@ -197,7 +199,6 @@
     "Study/Algorithm/Programmers/디스크 컨트롤러.md",
     "Study/Algorithm/Programmers/img",
     "Study/Algorithm/Programmers/베스트앨범.md",
-    "Project/GithubPages/2. GitHub Pages.md",
     "Study/Algorithm/BOJ",
     "Study/Algorithm/Programmers",
     "img",
