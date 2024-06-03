@@ -119,6 +119,11 @@
                                 "name": "단어 변환",
                                 "path":"content/Study/Algorithm/Programmers/단어 변환.md",
                                 "children": null
+                            },
+                            {
+                                "name": "네트워크",
+                                "path":"content/Study/Algorithm/Programmers/네트워크.md",
+                                "children": null
                             }
                         ]
                     },
@@ -279,6 +284,11 @@
                     {
                         "name": "22. Spring Security(2)",
                         "path": "content/Study/Spring/22. Spring Security(2).md",
+                        "children": null
+                    },
+                    {
+                        "name": "23. JPA(1)",
+                        "path": "content/Study/Spring/23. JPA(1).md",
                         "children": null
                     }
                 ]
