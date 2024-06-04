@@ -44,8 +44,13 @@
                         "path": "content/Study/Algorithm/Tree",
                         "children": [
                             {
-                                "name": "Segment Tree.md",
+                                "name": "Segment Tree",
                                 "path": "content/Study/Algorithm/Tree/Segment Tree.md",
+                                "children": null
+                            },
+                            {
+                                "name": "Prim MST",
+                                "path": "content/Study/Algorithm/Tree/Prim MST.md",
                                 "children": null
                             }
                         ]
