@@ -129,6 +129,11 @@
                                 "name": "네트워크",
                                 "path":"content/Study/Algorithm/Programmers/네트워크.md",
                                 "children": null
+                            },
+                            {
+                                "name": "섬 연결하기",
+                                "path":"content/Study/Algorithm/Programmers/섬 연결하기.md",
+                                "children": null
                             }
                         ]
                     },
