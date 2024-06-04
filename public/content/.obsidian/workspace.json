@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Algorithm/Tree/Prim MST.md",
+                "file": "Study/Algorithm/Programmers/섬 연결하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Algorithm/Tree/Prim MST.md",
+                "file": "Study/Algorithm/Programmers/섬 연결하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Algorithm/Tree/Prim MST.md"
+                "file": "Study/Algorithm/Programmers/섬 연결하기.md"
               }
             }
           }
@@ -170,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07f2066625141f87",
+  "active": "f3c30747232b614c",
   "lastOpenFiles": [
-    "Study/Algorithm/Programmers/섬 연결하기.md",
     "Study/Algorithm/Tree/Prim MST.md",
+    "Study/Algorithm/Programmers/섬 연결하기.md",
     "Study/Algorithm/Programmers/베스트앨범.md",
     "Study/Algorithm/Programmers/img/섬_연결하기1.png",
     "Study/Spring/23. JPA(1).md",
