@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Algorithm/Programmers/단속카메라.md",
+                "file": "Study/Spring/25. JPA(3).md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Algorithm/Programmers/단속카메라.md",
+                "file": "Study/Spring/25. JPA(3).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Algorithm/Programmers/단속카메라.md",
+                "file": "Study/Spring/25. JPA(3).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Algorithm/Programmers/단속카메라.md"
+                "file": "Study/Spring/25. JPA(3).md"
               }
             }
           }
@@ -173,15 +173,16 @@
   },
   "active": "f3c30747232b614c",
   "lastOpenFiles": [
+    "Study/Spring/24. JPA(2).md",
+    "Study/Spring/25. JPA(3).md",
+    "Study/Algorithm/Programmers/단속카메라.md",
     "Study/Algorithm/Programmers/img/요격시스템.png",
     "Study/Algorithm/Programmers/베스트앨범.md",
-    "Study/Algorithm/Programmers/단속카메라.md",
     "Study/Algorithm/Programmers/섬 연결하기.md",
     "Untitled.md",
     "Study/Algorithm/Tree/Prim MST.md",
     "Study/Algorithm/Programmers/img/섬_연결하기1.png",
     "Study/Spring/23. JPA(1).md",
-    "Study/Spring/24 JPA(2).md",
     "Study/Spring/img/24_img5.png",
     "Study/Spring/img/24_img4.png",
     "Study/Spring/img/24_img2.png",
@@ -192,7 +193,6 @@
     "Study/Algorithm/Programmers/img/네트워크1.png",
     "Study/Algorithm/Programmers/img/네트워크2.png",
     "Study/Spring/img/23_img5.png",
-    "Study/Spring/img/23_img1.png",
     "Study/Algorithm/Programmers/단어 변환.md",
     "Study/Algorithm/Programmers/아이템 줍기.md",
     "Study/Algorithm/Programmers/퍼즐 조각 채우기.md",
