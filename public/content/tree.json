@@ -134,6 +134,11 @@
                                 "name": "섬 연결하기",
                                 "path":"content/Study/Algorithm/Programmers/섬 연결하기.md",
                                 "children": null
+                            },
+                            {
+                                "name": "단속카메라",
+                                "path":"content/Study/Algorithm/Programmers/단속카메라.md",
+                                "children": null
                             }
                         ]
                     },
