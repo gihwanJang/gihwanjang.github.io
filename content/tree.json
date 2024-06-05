@@ -310,6 +310,11 @@
                         "name": "24. JPA(2)",
                         "path": "content/Study/Spring/24. JPA(2).md",
                         "children": null
+                    },
+                    {
+                        "name": "25. JPA(3)",
+                        "path": "content/Study/Spring/25. JPA(3).md",
+                        "children": null
                     }
                 ]
             },
