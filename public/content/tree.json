@@ -29,12 +29,12 @@
                 "path": "content/Project/BookStore",
                 "children": [
                     {
-                        "name": "Auth",
-                        "path": "content/Project/BookStore/Auth",
+                        "name": "auth",
+                        "path": "content/Project/BookStore/auth",
                         "children": [
                             {
                                 "name": "인증 - 인가 서비스",
-                                "path": "content/Project/BookStore/Auth/인증 - 인가 서비스",
+                                "path": "content/Project/BookStore/auth/인증 - 인가 서비스",
                                 "children": null
                             }
                         ]
