@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/DesignPattern/Saga Pattern.md",
+                "file": "Study/Algorithm/Search/Binary Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/DesignPattern/Saga Pattern.md",
+                "file": "Study/Algorithm/Search/Binary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/DesignPattern/Saga Pattern.md",
+                "file": "Study/Algorithm/Search/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/DesignPattern/Saga Pattern.md"
+                "file": "Study/Algorithm/Search/Binary Search.md"
               }
             }
           }
@@ -150,11 +150,11 @@
   },
   "active": "57ba5268d1427137",
   "lastOpenFiles": [
+    "Study/DesignPattern/Saga Pattern.md",
     "Study/Algorithm/Programmers/숫자게임.md",
     "Study/Algorithm/Programmers/다리를 지나는 트럭.md",
     "Study/Algorithm/Programmers/섬 연결하기.md",
     "Study/Algorithm/Search/Binary Search.md",
-    "Study/DesignPattern/Saga Pattern.md",
     "saga1.png",
     "Study/DesignPattern/img/OrchestrationSaga.png",
     "Study/DesignPattern/img/CoreographySaga.png",
