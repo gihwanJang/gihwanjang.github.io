@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0958aeaa5d8ad558",
+        "id": "8683eb11079cc23f",
         "type": "tabs",
         "children": [
           {
-            "id": "6835b79d5af89423",
+            "id": "57ba5268d1427137",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7f8f739a7147cc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/BookStore/auth/인증 인가 서비스.md",
+                "file": "Study/DesignPattern/Saga Pattern.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/BookStore/auth/인증 인가 서비스.md",
+                "file": "Study/DesignPattern/Saga Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/BookStore/auth/인증 인가 서비스.md",
+                "file": "Study/DesignPattern/Saga Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/BookStore/auth/인증 인가 서비스.md"
+                "file": "Study/DesignPattern/Saga Pattern.md"
               }
             }
           }
@@ -156,56 +143,59 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b7f8f739a7147cc4",
+  "active": "57ba5268d1427137",
   "lastOpenFiles": [
+    "Study/Algorithm/Programmers/숫자게임.md",
+    "Study/Algorithm/Programmers/다리를 지나는 트럭.md",
+    "Study/Algorithm/Programmers/섬 연결하기.md",
+    "Study/Algorithm/Search/Binary Search.md",
+    "Study/DesignPattern/Saga Pattern.md",
+    "saga1.png",
+    "Study/DesignPattern/img/OrchestrationSaga.png",
+    "Study/DesignPattern/img/CoreographySaga.png",
+    "Study/DesignPattern/img/SpringCloud.png",
+    "Study/DesignPattern/img/Spring.png",
+    "Study/DesignPattern/img",
+    "Portfolio/portfolio.md",
+    "Study/DesignPattern",
     "Untitled.md",
+    "Portfolio/이력서.md",
+    "Study/Spring/3. Spring IoC.md",
+    "Study/Spring/1. Spring Boot 소개.md",
+    "Study/Kubernetes/1. 컨테이너 인프라 환경.md",
+    "Portfolio/img/증명사진.jpg",
+    "Study/ReactJS/1. ReactJS.md",
+    "Study/Algorithm/Search/img/binarySearch2.png",
+    "Study/Algorithm/Search/img/binarySearch1.png",
+    "Study/Algorithm/Search/img/binarySearch3.png",
+    "Study/Algorithm/Search/img",
+    "Study/Algorithm/Search",
+    "Study/Kubernetes",
     "Project/BookStore/auth/인증 인가 서비스.md",
     "Study/Spring/23. JPA(1).md",
     "Project/BookStore/auth/img/OAuth.jpg",
-    "Pasted image 20240723090253.png",
     "Project/BookStore/client/회원 서비스.md",
     "Project/BookStore/client/img",
-    "Portfolio/portfolio.md",
-    "Portfolio/이력서.md",
     "img/12_image1.md",
     "Project/BookStore/auth/img/auth",
     "Portfolio/Untitled.md",
-    "Project/BookStore/auth/img/SingleSessionArchitecture.png",
-    "Project/BookStore/auth/img/AccessRefreshArchitecture.png",
-    "Project/BookStore/auth/img/SharedSessionArchitecture.png",
-    "Project/BookStore/auth/img/MultiSessionArchitecture.png",
-    "Project/BookStore/auth/img/SessionAuth.png",
-    "Project/BookStore/auth/img/sessionAuth.png",
     "Project/BookStore/auth/img",
     "Project/BookStore/Message",
     "Project/BookStore/clientBatch",
-    "Project/BookStore/client",
-    "Project/BookStore/auth",
-    "Project/BookStore/eureka",
-    "Project/BookStore/Gateway",
-    "Project/BookStore",
-    "Study/Algorithm/Programmers/다리를 지나는 트럭.md",
     "Study/Algorithm/Tree/Prim MST.md",
     "Study/Spring/25. JPA(3).md",
     "Study/Spring/24. JPA(2).md",
     "Study/Algorithm/Programmers/단속카메라.md",
-    "Study/Algorithm/Programmers/img/요격시스템.png",
     "Study/Algorithm/Programmers/베스트앨범.md",
-    "Study/Algorithm/Programmers/섬 연결하기.md",
-    "Study/Algorithm/Programmers/img/섬_연결하기1.png",
     "Study/Algorithm/Programmers/네트워크.md",
     "Study/Algorithm/Programmers/단어 변환.md",
     "Study/Algorithm/Programmers/아이템 줍기.md",
     "Study/Algorithm/Programmers/퍼즐 조각 채우기.md",
-    "Study/Algorithm/Programmers/여행경로.md",
-    "Study/Algorithm/Programmers/주식가격.md",
-    "Study/Spring/22. Spring Security(2).md",
-    "Study/Algorithm/Programmers/전력망을 둘로 나누기.md",
-    "Study/Algorithm/Programmers/모음 사전.md",
-    "Study/Spring/21. Spring Security.md",
     "Untitled.canvas"
   ]
 }
