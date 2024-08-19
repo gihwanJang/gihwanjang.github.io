@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8683eb11079cc23f",
+        "id": "86c479ac4c4c10c3",
         "type": "tabs",
         "children": [
           {
-            "id": "57ba5268d1427137",
+            "id": "8d605bf1ccde161c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Algorithm/Search/Binary Search.md",
+                "file": "Study/Algorithm/Programmers/N으로 표현.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Algorithm/Search/Binary Search.md",
+                "file": "Study/Algorithm/Programmers/N으로 표현.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Algorithm/Search/Binary Search.md",
+                "file": "Study/Algorithm/Programmers/N으로 표현.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Algorithm/Search/Binary Search.md"
+                "file": "Study/Algorithm/Programmers/N으로 표현.md"
               }
             }
           }
@@ -148,23 +148,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "57ba5268d1427137",
+  "active": "8d605bf1ccde161c",
   "lastOpenFiles": [
-    "Study/DesignPattern/Saga Pattern.md",
+    "Project/Untitled/Interface.md",
+    "Study/Algorithm/Programmers/N으로 표현.md",
+    "Project/Untitled",
     "Study/Algorithm/Programmers/숫자게임.md",
+    "Portfolio/portfolio.md",
+    "Portfolio/이력서.md",
+    "Study/Algorithm/Programmers/img/숫자게임1.png",
+    "Project/GithubPages/1. GitHub Pages.md",
+    "Project/GithubPages/2. GitHub Pages.md",
+    "Study/Algorithm/Search/Binary Search.md",
+    "Study/DesignPattern/Saga Pattern.md",
     "Study/Algorithm/Programmers/다리를 지나는 트럭.md",
     "Study/Algorithm/Programmers/섬 연결하기.md",
-    "Study/Algorithm/Search/Binary Search.md",
     "saga1.png",
     "Study/DesignPattern/img/OrchestrationSaga.png",
     "Study/DesignPattern/img/CoreographySaga.png",
     "Study/DesignPattern/img/SpringCloud.png",
     "Study/DesignPattern/img/Spring.png",
     "Study/DesignPattern/img",
-    "Portfolio/portfolio.md",
     "Study/DesignPattern",
     "Untitled.md",
-    "Portfolio/이력서.md",
     "Study/Spring/3. Spring IoC.md",
     "Study/Spring/1. Spring Boot 소개.md",
     "Study/Kubernetes/1. 컨테이너 인프라 환경.md",
@@ -178,7 +184,6 @@
     "Study/Kubernetes",
     "Project/BookStore/auth/인증 인가 서비스.md",
     "Study/Spring/23. JPA(1).md",
-    "Project/BookStore/auth/img/OAuth.jpg",
     "Project/BookStore/client/회원 서비스.md",
     "Project/BookStore/client/img",
     "img/12_image1.md",
@@ -186,16 +191,11 @@
     "Portfolio/Untitled.md",
     "Project/BookStore/auth/img",
     "Project/BookStore/Message",
-    "Project/BookStore/clientBatch",
     "Study/Algorithm/Tree/Prim MST.md",
     "Study/Spring/25. JPA(3).md",
     "Study/Spring/24. JPA(2).md",
     "Study/Algorithm/Programmers/단속카메라.md",
     "Study/Algorithm/Programmers/베스트앨범.md",
-    "Study/Algorithm/Programmers/네트워크.md",
-    "Study/Algorithm/Programmers/단어 변환.md",
-    "Study/Algorithm/Programmers/아이템 줍기.md",
-    "Study/Algorithm/Programmers/퍼즐 조각 채우기.md",
     "Untitled.canvas"
   ]
 }
