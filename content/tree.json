@@ -172,6 +172,11 @@
                                 "name": "숫자게임",
                                 "path":"content/Study/Algorithm/Programmers/숫자게임.md",
                                 "children": null
+                            },
+                            {
+                                "name": "N으로 만들기",
+                                "path":"content/Study/Algorithm/Programmers/N으로 만들기.md",
+                                "children": null
                             }
 
                         ]
