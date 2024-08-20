@@ -177,6 +177,11 @@
                                 "name": "N으로 표현",
                                 "path":"content/Study/Algorithm/Programmers/N으로 표현.md",
                                 "children": null
+                            },
+                            {
+                                "name": "등굣길",
+                                "path":"content/Study/Algorithm/Programmers/등굣길.md",
+                                "children": null
                             }
 
                         ]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Algorithm/Programmers/N으로 표현.md",
+                "file": "Study/Algorithm/Programmers/등굣길.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Algorithm/Programmers/N으로 표현.md",
+                "file": "Study/Algorithm/Programmers/등굣길.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Algorithm/Programmers/N으로 표현.md",
+                "file": "Study/Algorithm/Programmers/등굣길.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Algorithm/Programmers/N으로 표현.md"
+                "file": "Study/Algorithm/Programmers/등굣길.md"
               }
             }
           }
@@ -150,9 +150,12 @@
   },
   "active": "8d605bf1ccde161c",
   "lastOpenFiles": [
+    "Study/Algorithm/Programmers/img/등굣길1.png",
+    "Study/Algorithm/Programmers/img/등굣길2.png",
+    "Study/Algorithm/Programmers/N으로 표현.md",
+    "Study/Algorithm/Programmers/등굣길.md",
     "Project/GithubPages/2. GitHub Pages.md",
     "Project/GithubPages/1. GitHub Pages.md",
-    "Study/Algorithm/Programmers/N으로 표현.md",
     "Project/Untitled/Interface.md",
     "Project/Untitled",
     "Study/Algorithm/Programmers/숫자게임.md",
@@ -178,7 +181,6 @@
     "Study/ReactJS/1. ReactJS.md",
     "Study/Algorithm/Search/img/binarySearch2.png",
     "Study/Algorithm/Search/img/binarySearch1.png",
-    "Study/Algorithm/Search/img/binarySearch3.png",
     "Study/Algorithm/Search/img",
     "Study/Algorithm/Search",
     "Study/Kubernetes",
@@ -194,8 +196,6 @@
     "Study/Algorithm/Tree/Prim MST.md",
     "Study/Spring/25. JPA(3).md",
     "Study/Spring/24. JPA(2).md",
-    "Study/Algorithm/Programmers/단속카메라.md",
-    "Study/Algorithm/Programmers/베스트앨범.md",
     "Untitled.canvas"
   ]
 }
